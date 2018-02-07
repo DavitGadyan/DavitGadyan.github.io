@@ -1,0 +1,21 @@
+body {
+	background-color: lightgrey
+}
+
+.div {float:none ;
+width: 50%;
+height: 30px;
+background-color: green;
+}
+.spec{
+color: #f44a41;
+font-size: 20px;
+font-style: oblique;
+}
+#ol{
+	color: green;
+font-size: 20px;
+}
+.ul{
+	background-color:yellow;
+}
